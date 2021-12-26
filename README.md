@@ -1,2 +1,2 @@
 # rolal
-Yakında atarım üşenmezsem
+v13 butonlu, select menülü ve slashlı üşenmezsem atarım.
